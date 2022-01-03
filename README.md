@@ -1,6 +1,6 @@
 # InitHelp
     帮助管理初始化流程的框架
-
+```java
     public class App extends Application {
 
     @Override
@@ -40,4 +40,5 @@
         Log.e("zh", "onInit: 测试1 初始化 结果 = " + initStatus);
     }
 }
+```
 
